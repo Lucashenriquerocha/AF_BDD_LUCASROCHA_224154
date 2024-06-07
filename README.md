@@ -28,3 +28,4 @@ Funcionalidade: Locação de Carro Utilitário de Última Hora
     E o sistema deve processar a locação rapidamente
     E o sistema deve aplicar um custo adicional devido à demanda urgente
 ```
+### ETAPA 2 NA BRANCH CONTA_TESTE
